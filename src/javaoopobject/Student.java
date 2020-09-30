@@ -6,6 +6,10 @@ public class Student {
 	public String name;
 	
 
+	public Student() {
+		
+	}
+
 	public void insertRecord(int id, String name) {
 		
 		this.id = id;
